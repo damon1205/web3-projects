@@ -13,3 +13,4 @@ Recently focused on Bitcoin and Stacks
 - Demo: <a href="https://x.com/Immutal0/status/1828502268708331927">Watch Demo Video</a>
 - Frontend repo: <a href="https://github.com/damon1205/Pump-Fun-Stx-FE">Pump Fun Stacks FE</a>
 - Backend repo: <a href="https://github.com/damon1205/Pump-Fun-Stx-BE">Pump Fun Stacks BE</a>
+- Smart Contract repo: <a href="https://github.com/damon1205/Pump-Fun-Stx-FT">Pump Fun Stacks Smart Contract</a>
