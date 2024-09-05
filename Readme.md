@@ -38,7 +38,7 @@ Recently focused on Bitcoin and Stacks
 <div>- Typescript, Next.js, Rust, Tailwind CSS<div>
 <img align="right" width="300px" src="https://github.com/damon1205/web3-projects/blob/main/assets/galactickingdom.png">
 
-- Live: <a href="https://galactickingdom.io/">MunchSwap</a>
+- Live: <a href="https://galactickingdom.io/">Galactic Kingdom</a>
 - Github repos:
   - backend repo: <a href="https://github.com/damon1205/Galactic-Kingdom-BE">Galactic Kingdom-Backend</a>
   - frontend repo: <a href="https://github.com/damon1205/Galactic-Kingdom-FE">Galactic Kingdom-Frontend https</a>
@@ -49,7 +49,7 @@ Recently focused on Bitcoin and Stacks
 <div>- Typescript, Next.js, Solidity, Tailwind CSS<div>
 <img align="right" width="300px" src="https://github.com/damon1205/web3-projects/blob/main/assets/digimonkz.png">
 
-- Live: <a href="https://digimonkz.com/">MunchSwap</a>
+- Live: <a href="https://digimonkz.com/">DigiMonkz</a>
 - Github repos:
   - backend repo: <a href="https://github.com/damon1205/DigiMonkz-BE">DigiMonkz-Backend</a>
   - frontend repo: <a href="https://github.com/damon1205/DigiMonkz-FE">DigiMonkz-Frontend https</a>
