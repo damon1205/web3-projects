@@ -7,6 +7,15 @@ Recently focused on Bitcoin and Stacks
 <div><i>Most of the repos are under private status since I've signed NDA with my clients.</i></div>
 <div><i>Send me DM if you are interested in my previous projects.</i></div>
 
+<h3><u><strong><i>Charisma</i></strong></h3>
+<hr />
+<div>- Staking MemeCoin on Stacks.</div>
+<div>- Clarity, Typescript, MongoDB, Next.js, Stacks.js, Xverse Wallet integration</div>
+Website: https://beta.charisma.rocks/
+
+![image](https://github.com/user-attachments/assets/14482b0a-8591-435a-9553-814192ff1a92)
+
+
 <h3><u><strong><i>Forking pump.fun</i></strong></u> &nbsp;(Stacks)</h3>
 <hr />
 
