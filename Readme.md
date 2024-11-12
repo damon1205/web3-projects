@@ -12,8 +12,20 @@ Recently focused on Bitcoin and Stacks
 <div>- Staking MemeCoin on Stacks.</div>
 <div>- Clarity, Typescript, MongoDB, Next.js, Stacks.js, Xverse Wallet integration</div>
 Website: https://beta.charisma.rocks/
-
+<br />
+  
 ![image](https://github.com/user-attachments/assets/14482b0a-8591-435a-9553-814192ff1a92)
+
+<h3><u><strong><i>Liquidium</i></strong></u> &nbsp;(Borrow / Lending Protocol on Bitcoin)</h3>
+<hr />
+Liquidium is the leading Bitcoin lending protocol where users can borrow and lend against Inscriptions, Ordinals, Runes, BRC-20, and more.
+- Website: https://liquidium.fi/
+<br />
+
+![image](https://github.com/user-attachments/assets/01cc6f81-4231-46bb-beb2-1578b3db4361)
+
+
+
 
 <h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
