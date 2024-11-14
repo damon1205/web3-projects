@@ -17,7 +17,7 @@ Recently focused on Bitcoin and Stacks
 <div>- Clarity, Typescript, MongoDB, Next.js, Stacks.js, Xverse Wallet integration</div>
   
 <br />
-- Live: <a href="https://charisma.rocks/">Liquidium</a>
+- Live: <a href="https://charisma.rocks/">Charisma</a>
 <br />
 <br />
 
