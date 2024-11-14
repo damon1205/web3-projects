@@ -9,22 +9,30 @@ Recently focused on Bitcoin and Stacks
 
 <h3><u><strong><i>Charisma</i></strong></h3>
 <hr />
+
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/14482b0a-8591-435a-9553-814192ff1a92">
+<br />
+<br />
 <div>- Staking MemeCoin on Stacks.</div>
 <div>- Clarity, Typescript, MongoDB, Next.js, Stacks.js, Xverse Wallet integration</div>
-Website: https://beta.charisma.rocks/
-<br />
   
-![image](https://github.com/user-attachments/assets/14482b0a-8591-435a-9553-814192ff1a92)
+<br />
+- Live: <a href="https://charisma.rocks/">Liquidium</a>
+<br />
+<br />
 
 <h3><u><strong><i>Liquidium</i></strong></u> &nbsp;(Borrow / Lending Protocol on Bitcoin)</h3>
 <hr />
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/01cc6f81-4231-46bb-beb2-1578b3db4361">
 Liquidium is the leading Bitcoin lending protocol where users can borrow and lend against Inscriptions, Ordinals, Runes, BRC-20, and more.
-- Website: https://liquidium.fi/
+<br />
+<br />
+- Live: <a href="https://liquidium.fi/">Liquidium</a>
 <br />
 
-![image](https://github.com/user-attachments/assets/01cc6f81-4231-46bb-beb2-1578b3db4361)
 
-
+<div>- Integrated Express, Bitcoin JS, and PSBT to facilitate secure and efficient Bitcoin transactions. </div>
+<div>- Implemented a multisig wallet system to ensure non-custodial staking for users, enhancing security and decentralization. </div>
 
 
 <h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
