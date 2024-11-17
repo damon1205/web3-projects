@@ -63,24 +63,31 @@ Liquidium is the leading Bitcoin lending protocol where users can borrow and len
 
 <h3><u><strong><i>Munch Swap ( Ordinal Marketplace )</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
+<img align="right" width="300px" src="https://github.com/damon1205/web3-projects/blob/main/assets/munchswap.png">
+<br />
+<br />
 <div>- Bitcoin ordinal multi swap platform. BTC to Ordinal or Ordinal to BTC.<div>
 <div>- Typescript, Next.js, Nest.js, PostgreSQL, Docker<div>
 <div>- Unisat, Xverse, Leader wallet integration<div>
-<img align="right" width="300px" src="https://github.com/damon1205/web3-projects/blob/main/assets/munchswap.png">
+
 
 - Live: <a href="https://munchswap.xyz/">MunchSwap</a>
 
 <h3><u><strong><i>DigiMonkz</i></strong></u></h3>
 <hr />
+<img align="right" width="300px" src="https://github.com/damon1205/web3-projects/blob/main/assets/digimonkz.png">
+<br />
+<br />
 <div>- NFT minting and staking - Ethereum<div>
 <div>- Typescript, Next.js, Solidity, Tailwind CSS<div>
-<img align="right" width="300px" src="https://github.com/damon1205/web3-projects/blob/main/assets/digimonkz.png">
 
 - Live: <a href="https://digimonkz.com/">DigiMonkz</a>
 
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 <img align="right" width="300px" src="https://github.com/damon1205/web3-projects/blob/main/assets/degentaxi.png">
+<br />
+<br />
 <div>- SOL crash game<div>
 <div>- Typescript, Rust, Next.js</div>
 - Live: <a href="https://degentaxi.io">Degen Taxi</a>
@@ -88,6 +95,7 @@ Liquidium is the leading Bitcoin lending protocol where users can borrow and len
 <h3><u><strong><i>Armored Kingdom</i></strong></u> &nbsp;(NEAR)</h3>
 <hr />
 <img align="right" width="300px" src="https://github.com/damon1205/web3-projects/blob/main/assets/armoredkingdom.png">
+<br />
 <div>- Comics NFT on NEAR, NFT Card Game</div>
 <div>- Built smart contract for game</div>
 <div>- Rust, Typescript, React.js, Express</div>
