@@ -34,25 +34,6 @@ Liquidium is the leading Bitcoin lending protocol where users can borrow and len
 <div>- Integrated Express, Bitcoin JS, and PSBT to facilitate secure and efficient Bitcoin transactions. </div>
 <div>- Implemented a multisig wallet system to ensure non-custodial staking for users, enhancing security and decentralization. </div>
 
-
-<h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Bitcoin)</h3>
-<hr />
-AletheiasAgora is a Dapp project. Users can use this platform to mint ordinals, and then use the ordinals to create raffle. You can also perform ordinal recursion, ordinal reinscribe etc. We have deployed Rune Swap and improved security using MultiSig Wallet. Completed Non-Custodial BTC Staking use CLTV(Control RedeemScript, OPS) tech.
-
-- Github repos: 
-  - backend repo: <a href="https://github.com/damon1205/COVault-App/tree/master/multisig-wallet">AletheiasAgora-Backend</a>
-  - frontend repo: <a href="https://github.com/damon1205/COVault-App/tree/master/multisig-wallet-fe">AletheiasAgora-Frontend</a>
-  
-<h3><u><strong><i>Bitcoin Defi</i></strong></u> &nbsp;(Bitcoin)</h3>
-<hr />
-ArcusLab is bitcoin defi platform. Users can get Faucet brc20 token, Supply or Borrow BTC or BRC20 tokens by over-collateral Ratio. I used Next for Frontend and Node for backend, MongoDB for Database. Also used Deep Lake API, DLC, Oracle and Dot Swap API for liquidate and AMM. The alpha version will be published in testnet in soon. Now using Unisat Wallet only but in the future, users can use XVerse and Leader Wallet. Implement Multi Sig Wallet for improve security of Vault.
-
-- Live: <a href="https://arcusbtc.com/">ArcusLab</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/ArcusBTC/arcus-app">ArcusLab-Backend</a>
-  - frontend repo: <a href="https://github.com/ArcusBTC/ArcusLab-FE">ArcusLab-Frontend</a>
-
-
 <h3><u><strong><i>Forking pump.fun</i></strong></u> &nbsp;(Stacks)</h3>
 <hr />
 
