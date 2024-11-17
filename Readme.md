@@ -7,6 +7,16 @@ Recently focused on Bitcoin and Stacks
 <div><i>Most of the repos are under private status since I've signed NDA with my clients.</i></div>
 <div><i>Send me DM if you are interested in my previous projects.</i></div>
 
+<h3><u><strong><i>Forking pump.fun</i></strong></u> &nbsp;(Solana, EVM)</h3>
+<hr />
+<img align="right" width="300px" src="https://github.com/damon1205/web3-projects/blob/main/assets/pumpfun.png">
+<div>- Built frontend/backend for spl token create, market create.</div>
+<div>- Built smart contract for bonding curve, make pool on raydium.</div>
+<div>- Rust, Typescript, Next.js, Express</div>
+
+- Live: <a href="https://app.ape.lol/">app.ape.lol</a>
+- Live: <a href="https://fairlaunch.kommunitas.net/">fairlaunch.kommunitas.net</a>
+
 <h3><u><strong><i>Charisma</i></strong></h3>
 <hr />
 
@@ -63,17 +73,6 @@ Liquidium is the leading Bitcoin lending protocol where users can borrow and len
 <div>- SOL crash game<div>
 <div>- Typescript, Rust, Next.js</div>
 - Live: <a href="https://degentaxi.io">Degen Taxi</a>
-
-  
-<h3><u><strong><i>Forking pump.fun</i></strong></u> &nbsp;(Solana, EVM)</h3>
-<hr />
-<img align="right" width="300px" src="https://github.com/damon1205/web3-projects/blob/main/assets/pumpfun.png">
-<div>- Built frontend/backend for spl token create, market create.</div>
-<div>- Built smart contract for bonding curve, make pool on raydium.</div>
-<div>- Rust, Typescript, Next.js, Express</div>
-
-- Live: <a href="https://app.ape.lol/">app.ape.lol</a>
-- Live: <a href="https://fairlaunch.kommunitas.net/">fairlaunch.kommunitas.net</a>
 
 <h3><u><strong><i>Armored Kingdom</i></strong></u> &nbsp;(NEAR)</h3>
 <hr />
