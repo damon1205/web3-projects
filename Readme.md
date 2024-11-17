@@ -17,6 +17,17 @@ Recently focused on Bitcoin and Stacks
 - Live: <a href="https://app.ape.lol/">app.ape.lol</a>
 - Live: <a href="https://fairlaunch.kommunitas.net/">fairlaunch.kommunitas.net</a>
 
+<h3><u><strong><i>Pioneer Legends</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/e97e2418-d009-48a0-a7ee-b52731ab3fa3">
+<div>This is the first idle game on SOL or any chain backed by three revenue sources, which include IRL crypto mining, Defi, and Taxes, with rev share to all NFT holders.</div>
+<div>- Built smart contracts for staking, nft lending platform(similar to sharky.fi).</div>
+<div>- Built backend for staking.</div>
+<div>- Built admin page and fixed frontend issues as well.</div>
+
+- Live: <a href="https://pioneerlegends.com">Pioneer Legends</a>
+
 <h3><u><strong><i>Charisma</i></strong></h3>
 <hr />
 
