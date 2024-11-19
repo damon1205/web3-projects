@@ -83,6 +83,17 @@ Liquidium is the leading Bitcoin lending protocol where users can borrow and len
 
 - Live: <a href="https://digimonkz.com/">DigiMonkz</a>
 
+<h3><u><strong><i>Hubble Protocol</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+<br />
+<div>Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain. Hubble enables you to borrow USDH against multiple assets. Borrowing USDH allows users to access the liquidity (cash on hand) in their long-term holding tokens.</div>
+<br />
+<div>- Lets users borrow USDH for a one-time 0.5% fee and low interest rates. With the interest yield on deposits, your collateral value can grow to negate fees.</div>
+<div>- Developed governance and utility Token(HBB) and over-collateralized stablecoin(USDH).</div>
+<div>- Hubble’s capital-efficient 110% collateral ratio lets users leverage up to 11x on their deposits.</div>
+<br />
+- Live: <a href="https://hubbleprotocol.io/">Hubble Protocol</a>
+
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 <img align="right" width="300px" src="https://github.com/damon1205/web3-projects/blob/main/assets/degentaxi.png">
